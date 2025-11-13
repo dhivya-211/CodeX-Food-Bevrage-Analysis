@@ -22,6 +22,10 @@ Using MySQL for data querying, Power BI for interactive visualizations, and Canv
 
 7.There is a growing demand for healthier options, such as reduced sugar and natural formulations.
 
+![Uploading image.png…]()
+
+
+
 🌟 Actionable Recommendations:
 
 1.Collaborate with online influencers to strengthen digital ad campaigns and boost reach.
